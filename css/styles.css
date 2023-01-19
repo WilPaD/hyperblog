@@ -580,6 +580,14 @@ video {
   padding-bottom: 0.5rem;
 }
 
+.pt-4 {
+  padding-top: 1rem;
+}
+
+.text-right {
+  text-align: right;
+}
+
 .text-justify {
   text-align: justify;
 }
@@ -624,6 +632,11 @@ video {
 .text-orange-600 {
   --tw-text-opacity: 1;
   color: rgb(234 88 12 / var(--tw-text-opacity));
+}
+
+.text-blue-500 {
+  --tw-text-opacity: 1;
+  color: rgb(59 130 246 / var(--tw-text-opacity));
 }
 
 .underline-offset-2 {
